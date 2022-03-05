@@ -122,8 +122,8 @@ jalan("    \033[1;94m▇▇\033[1;98m                Jalal khan          \033[1;
 jalan("    \033[1;93m▇▇\033[1;98m       YOUTUBE   DG Gamer   \033[1;93m▇▇")
 jalan("    \033[1;94m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
 
-CorrectUsername = "pagal "
-CorrectPassword = "tissue"
+CorrectUsername = "love "
+CorrectPassword = "you"
 
 loop = 'true'
 while (loop == 'true'):
